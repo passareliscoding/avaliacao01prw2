@@ -6,7 +6,6 @@ import "./produto.css";
             <div className="produto">
                 <div className="cabecalho">
                     <img src={props.imagemMarca} alt={props.marca} />
-                    {console.log(props.imagemMarca)}
                 </div>
 
                 <div className="rodape">
